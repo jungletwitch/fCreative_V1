@@ -79,7 +79,7 @@ body {
     /* Solid dot by default */
     border: none;
     border-radius: 50%;
-    z-index: 9999;
+    z-index: 99999;
     transform: translate(-50%, -50%);
     transition: width 0.3s cubic-bezier(0.19, 1, 0.22, 1), height 0.3s cubic-bezier(0.19, 1, 0.22, 1), background-color 0.3s ease;
     mix-blend-mode: difference;

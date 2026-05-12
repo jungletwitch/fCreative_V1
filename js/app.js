@@ -93,8 +93,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         const loop = () => {
-            delayedX = lerp(delayedX, cursorX, 0.15); // Smooth follow
-            delayedY = lerp(delayedY, cursorY, 0.15);
+            delayedX = lerp(delayedX, cursorX, 0.4); // Faster smooth follow
+            delayedY = lerp(delayedY, cursorY, 0.4);
 
             cursor.style.left = delayedX + 'px';
             cursor.style.top = delayedY + 'px';
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Hover Effect Only
-        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item');
+        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item, .modal-close');
 
         hoverables.forEach(el => {
             el.addEventListener('mouseenter', () => cursor.classList.add('hovered'));
