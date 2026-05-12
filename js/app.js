@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
         loop();
 
         // Magnetic Buttons
-        const magnets = document.querySelectorAll('.btn-primary, .cta-button, .filter-btn');
+        const magnets = document.querySelectorAll('.btn-primary, .cta-button, .filter-btn, .modal-close');
 
         magnets.forEach(magnet => {
             magnet.addEventListener('mousemove', function (e) {
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Hover Effect Only
-        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item, .modal-close');
+        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item');
 
         hoverables.forEach(el => {
             el.addEventListener('mouseenter', () => cursor.classList.add('hovered'));

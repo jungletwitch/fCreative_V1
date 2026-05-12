@@ -97,9 +97,8 @@ body {
     width: 60px;
     height: 60px;
     background-color: transparent;
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.8);
     mix-blend-mode: difference;
-    backdrop-filter: blur(2px);
 }
 
 .custom-cursor.magnet {
