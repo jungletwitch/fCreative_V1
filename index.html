@@ -40,88 +40,60 @@
             </div>
         </section>
 
-        <section class="intro container reveal-on-scroll">
-            <p class="manifesto">
-                We believe in the honest expression of materials. Our work sits at the intersection of industrial
-                precision and organic imperfection.
-            </p>
-        </section>
-
-        <section class="process container reveal-on-scroll">
-            <h2 class="section-label">Our Process</h2>
-            <div class="process-grid">
-                <div class="process-item">
-                    <img src="assets/images/hero_workshop_1769144733848.png" alt="Design Phase">
-                    <span class="caption">01 / Design</span>
-                </div>
-                <div class="process-item">
-                    <img src="assets/images/process_metal_texture_1769144748082.png" alt="Fabrication Phase">
-                    <span class="caption">02 / Fabrication</span>
-                </div>
-                <div class="process-item">
-                    <img src="assets/images/project_minimal_chair_1769144760417.png" alt="Finishing Phase">
-                    <span class="caption">03 / Finishing</span>
-                </div>
+        <section class="about container reveal-on-scroll" style="margin-bottom: 6rem;">
+            <div class="about-image" style="margin-bottom: 4rem;">
+                <!-- Placeholder top image -->
+                <img src="assets/images/hero_workshop_1769144733848.png" alt="Luigi Festinante Workshop" style="width: 100%; height: 60vh; object-fit: cover;">
+            </div>
+            <h2 class="section-label">About Us</h2>
+            <div class="about-content" style="max-width: 800px; margin: 0 auto; font-size: 1.25rem; line-height: 1.8; color: #ccc;">
+                <p style="margin-bottom: 2rem; font-size: 1.5rem; color: #fff;"><strong>Founded by Luigi Festinante, the studio merges European design discipline with advanced fabrication expertise.</strong></p>
+                <p style="margin-bottom: 1.5rem;">A graduate of the European Institute of Design in Milan, Luigi later led the institute’s Phototyping and Modeling Laboratory, developing deep specialization in sculptural design, model making, and material innovation.</p>
+                <p style="margin-bottom: 1.5rem;">He went on to establish Art Design Lab, a studio rooted in the fusion of artistic vision and technical craftsmanship.</p>
+                <p style="margin-bottom: 2rem;">After more than a decade of international work, Luigi relocated to New York City to launch Fucking Creative — a studio driven by bold thinking, unconventional solutions, and the transformation of ambitious concepts into physical reality.</p>
+                <h3 style="font-family: var(--font-display); font-size: 1.75rem; letter-spacing: 2px; text-align: center; margin-top: 4rem; color: #fff; text-transform: uppercase;">We create what others only imagine.</h3>
             </div>
         </section>
+
+
 
         <section class="projects container reveal-on-scroll">
-            <h2 class="section-label">Featured Projects</h2>
+            <h2 class="section-label">Projects</h2>
 
-            <nav class="portfolio-filters">
-                <ul class="filter-list">
-                    <li><button class="filter-btn active" data-filter="all">All</button></li>
-                    <li><button class="filter-btn" data-filter="WORK">WORK</button></li>
-                    <li><button class="filter-btn" data-filter="LIVING">LIVING</button></li>
-                    <li><button class="filter-btn" data-filter="COLLECTION">COLLECTION</button></li>
-                    <li><button class="filter-btn" data-filter="BESPOKE">BESPOKE</button></li>
-                </ul>
-            </nav>
-
-            <div class="project-list">
-                <!-- Featured Project 1 -->
-                <article class="project-item" data-project-id="1">
-                    <div class="project-image">
-                        <img src="assets/images/portfolio/b2-milano-1.jpg" alt="B2 Milano">
+            <div class="project-categories" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 2rem; margin-bottom: 4rem;">
+                <a href="portfolio.html?filter=commercial" class="category-card" style="position: relative; display: block; overflow: hidden; aspect-ratio: 4/5; cursor: pointer;">
+                    <!-- Placeholder Commercial Image -->
+                    <img src="assets/images/portfolio/acne-studio-nyc-1.jpg" alt="Commercial Projects" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.8s cubic-bezier(0.2, 0.8, 0.2, 1), filter 0.8s ease; filter: grayscale(100%);">
+                    <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.3); transition: background 0.5s ease;" class="overlay"></div>
+                    <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+                        <h3 style="color: #fff; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: 0.1em; font-family: var(--font-display); transition: transform 0.5s ease;" class="title">COMMERCIAL</h3>
                     </div>
-                    <div class="project-info">
-                        <h3>B2 Milano</h3>
-                        <p>Custom Fabrication</p>
+                </a>
+                <a href="portfolio.html?filter=residential" class="category-card" style="position: relative; display: block; overflow: hidden; aspect-ratio: 4/5; cursor: pointer;">
+                    <!-- Placeholder Residential Image -->
+                    <img src="assets/images/portfolio/bagni-1.jpg" alt="Residential Projects" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.8s cubic-bezier(0.2, 0.8, 0.2, 1), filter 0.8s ease; filter: grayscale(100%);">
+                    <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.3); transition: background 0.5s ease;" class="overlay"></div>
+                    <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; pointer-events: none;">
+                        <h3 style="color: #fff; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: 0.1em; font-family: var(--font-display); transition: transform 0.5s ease;" class="title">RESIDENTIAL</h3>
                     </div>
-                </article>
-                <!-- Featured Project 12 -->
-                <article class="project-item" data-project-id="12">
-                    <div class="project-image">
-                        <img src="assets/images/portfolio/bagni-1.jpg" alt="Bagni">
-                    </div>
-                    <div class="project-info">
-                        <h3>Bagni</h3>
-                        <p>Custom Fabrication</p>
-                    </div>
-                </article>
-                <!-- Featured Project 29 -->
-                <article class="project-item" data-project-id="29">
-                    <div class="project-image">
-                        <img src="assets/images/portfolio/casco-1.jpg" alt="Casco">
-                    </div>
-                    <div class="project-info">
-                        <h3>Casco</h3>
-                        <p>Custom Fabrication</p>
-                    </div>
-                </article>
-                <!-- Featured Project 35 -->
-                <article class="project-item" data-project-id="35">
-                    <div class="project-image">
-                        <img src="assets/images/portfolio/cement-table-1.jpeg" alt="Cement Table">
-                    </div>
-                    <div class="project-info">
-                        <h3>Cement Table</h3>
-                        <p>Custom Fabrication</p>
-                    </div>
-                </article>
+                </a>
             </div>
+            
+            <style>
+                .category-card:hover img {
+                    transform: scale(1.05);
+                    filter: grayscale(0%);
+                }
+                .category-card:hover .overlay {
+                    background: rgba(0,0,0,0.1);
+                }
+                .category-card:hover .title {
+                    transform: scale(1.05);
+                }
+            </style>
+
             <div style="text-align: center; margin-top: 4rem;">
-                <a href="portfolio.html" class="btn-secondary">View Full Portfolio</a>
+                <a href="portfolio.html" class="btn-primary" style="padding: 1rem 2rem; display: inline-block; font-size: 1rem;">View All Projects</a>
             </div>
         </section>
 
@@ -193,7 +165,7 @@
         <span class="cta-icon">→</span>
     </a>
 
-    <script src="js/app.js"></script>
+    <script src="js/app.js?v=2"></script>
 </body>
 
 </html>

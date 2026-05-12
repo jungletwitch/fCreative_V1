@@ -1,394 +1,170 @@
 [
-  {
-    "id": 1,
-    "title": "B2 Milano",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of B2 Milano, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/b2-milano-1.jpg",
-      "assets/images/portfolio/b2-milano-2.jpg",
-      "assets/images/portfolio/b2-milano-3.jpg",
-      "assets/images/portfolio/b2-milano-4.jpg"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Vhernier",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Vhernier, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/vhernier-1.jpeg",
-      "assets/images/portfolio/vhernier-2.jpeg",
-      "assets/images/portfolio/vhernier-3.jpeg",
-      "assets/images/portfolio/vhernier-4.jpeg",
-      "assets/images/portfolio/vhernier-5.jpeg",
-      "assets/images/portfolio/vhernier-6.jpeg",
-      "assets/images/portfolio/vhernier-7.jpg",
-      "assets/images/portfolio/vhernier-8.jpeg",
-      "assets/images/portfolio/vhernier-9.jpeg",
-      "assets/images/portfolio/vhernier-10.jpeg",
-      "assets/images/portfolio/vhernier-11.jpeg"
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Acne Studio Nyc",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Acne Studio Nyc, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/acne-studio-nyc-1.jpg",
-      "assets/images/portfolio/acne-studio-nyc-2.jpg"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Fantini Stand",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Fantini Stand, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/fantini-stand-1.jpg",
-      "assets/images/portfolio/fantini-stand-2.jpg",
-      "assets/images/portfolio/fantini-stand-3.jpg"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Montesacro",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Montesacro, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/montesacro-1.jpeg",
-      "assets/images/portfolio/montesacro-2.jpeg"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Pisterzi",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Pisterzi, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/pisterzi-1.jpg",
-      "assets/images/portfolio/pisterzi-2.jpg",
-      "assets/images/portfolio/pisterzi-3.jpg"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Missoni Office",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Missoni Office, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/missoni-office-1.jpeg"
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Parmacotto",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Parmacotto, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/parmacotto-1.jpeg"
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Parmacotto Panoramic",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Parmacotto Panoramic, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/parmacotto-panoramic-1.jpeg"
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Sneeker Shop",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Sneeker Shop, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/sneeker-shop-1.jpeg"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Sneeker Shop2",
-    "category": "WORK",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Sneeker Shop2, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/sneeker-shop2-1.jpeg"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Bagni",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Bagni, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/bagni-1.jpg",
-      "assets/images/portfolio/bagni-2.jpg",
-      "assets/images/portfolio/bagni-3.jpg"
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Amid Libreria",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Amid Libreria, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/amid-libreria-1.jpg",
-      "assets/images/portfolio/amid-libreria-2.jpg",
-      "assets/images/portfolio/amid-libreria-3.jpg"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Ariella Bedroom Master",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Ariella Bedroom Master, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/ariella-bedroom-master-1.jpeg",
-      "assets/images/portfolio/ariella-bedroom-master-2.jpeg",
-      "assets/images/portfolio/ariella-bedroom-master-3.jpeg",
-      "assets/images/portfolio/ariella-bedroom-master-4.jpeg",
-      "assets/images/portfolio/ariella-bedroom-master-5.jpeg"
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Ariella Cucina Pu",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Ariella Cucina Pu, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/ariella-cucina-pu-1.jpg",
-      "assets/images/portfolio/ariella-cucina-pu-2.jpg",
-      "assets/images/portfolio/ariella-cucina-pu-3.jpg",
-      "assets/images/portfolio/ariella-cucina-pu-4.jpg",
-      "assets/images/portfolio/ariella-cucina-pu-5.jpg",
-      "assets/images/portfolio/ariella-cucina-pu-6.jpg"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Ariella Leonard Cucina",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Ariella Leonard Cucina, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/ariella-leonard-cucina-1.jpeg",
-      "assets/images/portfolio/ariella-leonard-cucina-2.jpeg",
-      "assets/images/portfolio/ariella-leonard-cucina-3.jpeg"
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Ariella Master Closet",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Ariella Master Closet, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/ariella-master-closet-1.jpg",
-      "assets/images/portfolio/ariella-master-closet-2.jpg",
-      "assets/images/portfolio/ariella-master-closet-3.jpg"
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Ariella Wall",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Ariella Wall, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/ariella-wall-1.jpeg",
-      "assets/images/portfolio/ariella-wall-2.jpeg",
-      "assets/images/portfolio/ariella-wall-3.jpeg",
-      "assets/images/portfolio/ariella-wall-4.jpeg",
-      "assets/images/portfolio/ariella-wall-5.jpeg"
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Cucinetta",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Cucinetta, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/cucinetta-1.jpeg",
-      "assets/images/portfolio/cucinetta-2.jpeg"
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Serrandina",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Serrandina, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/serrandina-1.jpeg",
-      "assets/images/portfolio/serrandina-2.jpg"
-    ]
-  },
-  {
-    "id": 21,
-    "title": "45 Detail",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of 45 Detail, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/45-detail-1.jpeg"
-    ]
-  },
-  {
-    "id": 22,
-    "title": "Arilella Kids Room",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Arilella Kids Room, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/arilella-kids-room-1.jpeg"
-    ]
-  },
-  {
-    "id": 23,
-    "title": "Nutella Picture",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Nutella Picture, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/nutella-picture-1.jpeg"
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Cristiana Picture",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Cristiana Picture, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/cristiana-picture-1.jpg"
-    ]
-  },
-  {
-    "id": 25,
-    "title": "Dell'anna Lampadario",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Dell'anna Lampadario, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/dell-anna-lampadario-1.jpg"
-    ]
-  },
-  {
-    "id": 26,
-    "title": "Madia Simon 2",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Madia Simon 2, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/madia-simon-2-1.jpg"
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Madia Simon",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Madia Simon, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/madia-simon-1.jpg"
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Maura Cucona",
-    "category": "LIVING",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Maura Cucona, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/maura-cucona-1.jpg"
-    ]
-  },
-  {
-    "id": 29,
-    "title": "Casco",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Casco, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/casco-1.jpg"
-    ]
-  },
-  {
-    "id": 30,
-    "title": "Fiorucci",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Fiorucci, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/fiorucci-1.jpg"
-    ]
-  },
-  {
-    "id": 31,
-    "title": "Hag",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Hag, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/hag-1.jpg"
-    ]
-  },
-  {
-    "id": 32,
-    "title": "Manichini",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Manichini, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/manichini-1.jpg"
-    ]
-  },
-  {
-    "id": 33,
-    "title": "Maxxi",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Maxxi, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/maxxi-1.jpg"
-    ]
-  },
-  {
-    "id": 34,
-    "title": "Scarpashangai",
-    "category": "BESPOKE",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Scarpashangai, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/scarpashangai-1.jpg"
-    ]
-  },
-  {
-    "id": 35,
-    "title": "Cement Table",
-    "category": "COLLECTION",
-    "type": "Custom Fabrication",
-    "description": "Selected documentation of Cement Table, reflecting rigorous fabrication methods and detailed finish work.",
-    "images": [
-      "assets/images/portfolio/cement-table-1.jpeg"
-    ]
-  }
+    {
+        "id": 1,
+        "title": "Barbershop Pisterzi",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Barbershop Pisterzi, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/barbershop-pisterzi-1.jpg",
+            "assets/images/portfolio/barbershop-pisterzi-2.jpg",
+            "assets/images/portfolio/barbershop-pisterzi-3.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Hotel B2 Milano",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Hotel B2 Milano, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/hotel-b2-milano-1.jpg",
+            "assets/images/portfolio/hotel-b2-milano-2.jpg",
+            "assets/images/portfolio/hotel-b2-milano-3.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Maxxi Museum Roma",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Maxxi Museum Roma, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/maxxi-museum-roma-1.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Vhernier",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Vhernier, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/vhernier-1.jpg",
+            "assets/images/portfolio/vhernier-2.jpeg",
+            "assets/images/portfolio/vhernier-3.jpeg",
+            "assets/images/portfolio/vhernier-4.jpeg",
+            "assets/images/portfolio/vhernier-5.jpeg",
+            "assets/images/portfolio/vhernier-6.jpeg",
+            "assets/images/portfolio/vhernier-7.jpeg",
+            "assets/images/portfolio/vhernier-8.jpeg",
+            "assets/images/portfolio/vhernier-9.jpeg",
+            "assets/images/portfolio/vhernier-10.jpeg",
+            "assets/images/portfolio/vhernier-11.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Fantini Booth Nyc",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Fantini Booth Nyc, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/fantini-booth-nyc-1.jpg",
+            "assets/images/portfolio/fantini-booth-nyc-2.jpg",
+            "assets/images/portfolio/fantini-booth-nyc-3.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Scarpashangai",
+        "category": "COMMERCIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Scarpashangai, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/scarpashangai-1.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Bed",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Bed, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/bed-1.jpeg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Filadelfia Pa",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Filadelfia Pa, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/filadelfia-pa-1.jpg",
+            "assets/images/portfolio/filadelfia-pa-2.jpg",
+            "assets/images/portfolio/filadelfia-pa-3.jpg",
+            "assets/images/portfolio/filadelfia-pa-4.jpg",
+            "assets/images/portfolio/filadelfia-pa-5.jpg",
+            "assets/images/portfolio/filadelfia-pa-6.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Gold Leaf Chandelier",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Gold Leaf Chandelier, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/gold-leaf-chandelier-1.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Lic Ny Media Unit",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Lic Ny Media Unit, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/lic-ny-media-unit-1.jpg",
+            "assets/images/portfolio/lic-ny-media-unit-2.jpg",
+            "assets/images/portfolio/lic-ny-media-unit-3.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Leonard Street Master Bedroom",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Leonard Street Master Bedroom, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/leonard-street-master-bedroom-1.jpeg",
+            "assets/images/portfolio/leonard-street-master-bedroom-2.jpeg",
+            "assets/images/portfolio/leonard-street-master-bedroom-3.jpeg",
+            "assets/images/portfolio/leonard-street-master-bedroom-4.jpeg",
+            "assets/images/portfolio/leonard-street-master-bedroom-5.jpeg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Private Home 2 Milano",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Private Home 2 Milano, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/private-home-2-milano-1.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Private Home Milano",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Private Home Milano, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/private-home-milano-1.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Leonard Street Ny",
+        "category": "RESIDENTIAL",
+        "type": "Custom Fabrication",
+        "description": "Selected documentation of Leonard Street Ny, reflecting rigorous fabrication methods and detailed finish work.",
+        "images": [
+            "assets/images/portfolio/leonard-street-ny-1.jpeg",
+            "assets/images/portfolio/leonard-street-ny-2.jpeg"
+        ]
+    }
 ]
