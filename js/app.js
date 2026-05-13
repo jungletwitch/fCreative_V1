@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Hover Effect Only
-        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item');
+        const hoverables = document.querySelectorAll('a:not(.btn-primary):not(.cta-button):not(.filter-btn), .project-item, .process-item, .form-control, label, .hoverable');
 
         hoverables.forEach(el => {
             el.addEventListener('mouseenter', () => cursor.classList.add('hovered'));
